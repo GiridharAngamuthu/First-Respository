@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <tittle><center>Day 1 Practices</center></tittle>
+    </head>
+    <body>
+        <section>
+            <a href="www.amypo.com">Visit Amypo!</a><br>
+            The <abbr tittle="WORLD HEALTH ORGANIZATION">WHO</abbr> was founded in 1948.<br><br>
+            <address>Written by <a href="www.google.com">Jon Doe</a><br> Visit us at:<br>Example.com<br>
+            Box 564,Disneyland<br>USA<br></address><br>
+            This is normal text- <strong>and this is bold text</strong><br>
+        </section>
+        <section>
+            <blockquote>For 50 years,WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported <br> in the United States and close to 5 million globally.</blockquote>
+            My favorite color is <del>blue</del><u> red!</u><br><br>
+        <section>
+            <i>Lorem ipsum</i> is the most popular filler text in history.<br><br>
+            The <i>RMS Titanic</i>, a luxury steamship, sank on April 15,1912 after striking an iceberg.<br><br><br><br>
+            <tt>Text in a pre element <br>is displayed in a fixed-width<br>font, and it preserves<br> both spaces and <br> line breaks</tt>
+        </section><br><br>
+            <table>
+            <style>
+                table,th,td
+                {
+                    border: 1px solid green;
+                }
+            </style>
+                <tr>
+                    <th>Month</th>
+                    <th>Savings</th>
+                </tr>
+                <tr>
+                    <td>January</td>
+                    <td>$100</td>
+                </tr>
+                <tr>
+                    <td>February</td>
+                    <td>$80</td>
+                </tr>
+            </table>
+    </body>
+</html>
